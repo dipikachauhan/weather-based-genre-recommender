@@ -1,3 +1,4 @@
+import tensorflow as tf
 image_size = 128
 
 # Label map (match your training)
