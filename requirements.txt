@@ -1,6 +1,5 @@
 streamlit
 tensorflow
-Pillow
+opencv-python
 numpy
-matplotlib
-scikit-learn
+Pillow
